@@ -1,0 +1,46 @@
+
+  body {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    background-color: white;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+a {
+  color: plum;
+  text-decoration: none;
+}
+
+#wrapper {
+  margin: 100px;
+  max-width: 600px;
+  text-align: center;
+}
+
+#timer {
+  position: absolute;
+  top: 0px;
+  right: 10px;
+  text-align: right;
+  
+}
+
+
+.hide {
+    display: none;
+}
+
+.btn {
+    border: black;
+    background-color: #a929ff;
+    color: rgb(255, 255, 255);
+    border-radius: 6px;
+    font-size: 20px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+  }
+  
+  button:hover {
+    transition-duration: 0.5s;
+    background-color: rgb(238, 185, 238);
+  }

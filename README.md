@@ -3,7 +3,7 @@ Web APIs Challenge: Code Quiz
 
 Deployed Link - https://katynicole89.github.io/CodeChallenge/
 
- ![Screenshot](../assets/CodeSS.jpg)
+ ![Screenshot](/assets/CodeSS.jpg)
 
 ## Description
 Simple multiple choice quiz to test your knowledge. Time is deducted from the timer for each wrong answer. At the end of the quiz you are given the option to enter your initials and save your score to the highscores. 
